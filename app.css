@@ -1,0 +1,21 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.azul{
+    color: rgb(81, 81, 209);
+}
+a{
+    color: orange;
+}
+.primero{
+    background-color:#ffffcc;
+    color: blue;
+}
+.second{
+    background-color:rgb(14, 14, 14);
+    color: yellow;    
+}
+.negrita{
+    font-weight: 700;
+}
